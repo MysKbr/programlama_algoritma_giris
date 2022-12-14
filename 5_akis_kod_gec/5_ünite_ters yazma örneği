@@ -1,3 +1,2 @@
-a="bursa"
-for i in a:
-    print(i)
+isim= "bursa"
+print(isim[::-1])
