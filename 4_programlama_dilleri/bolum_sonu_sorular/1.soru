@@ -1,0 +1,7 @@
+Algoritma ile akış diyagramı arasındaki farklar nelerdir?
+Bir algoritma, çözüm mantığını yorumlamak için sıralı adımların bir kombinasyonunu içerir. Buna karşılık, bir akış şeması algoritmanın resimsel gösterimidir.
+Bir akış şeması algoritmaya göre daha anlaşılabilir.
+Algoritma, insanlar tarafından algılanabilecek bir dilde yazılmıştır. Diğer yandan akış şeması, farklı şekiller ve semboller kullanılarak yapılmıştır.
+Akış çizelgesi önceden tanımlanmış kurallara uyulduğu sürece algoritmalarda katı kurallar uygulanmamaktadır.
+Algoritmadaki hatalar ve hatalar akış çizelgelerine göre kolayca tespit edilir.
+Akış çizelgeleri oluşturmak kolaydır. Aksine, algoritmanın yapısı karmaşıktır.
