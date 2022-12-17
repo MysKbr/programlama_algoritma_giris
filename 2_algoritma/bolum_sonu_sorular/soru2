@@ -1,0 +1,10 @@
+Algoritma hazırlanırken dikkat edilmesi gereken hususlar nelerdir?
+
+-Değişken isimlerine dikkat edilmeli, aynı değişkenden 2 tane oluşturulamaz.
+
+- Eğer döngü kullanılacaksa (sayaç), sayaç artırma/eksiltme/bitirme işlemlerine dikkat edilmeli.
+
+- Bir eğer (if) kullanılacaksa, doğru/yanlış senkronizasyonu doğru yapılmalı.
+
+- Adımlar arası gezinti olacaksa, mutlaka satır sonunda belirtilmeli yoksa akış devam eder.
+
